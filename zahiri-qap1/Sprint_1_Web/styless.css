@@ -1,0 +1,54 @@
+
+body {
+    background-color: rgb(245, 231, 231);
+}
+  
+.mainbox {
+    width: 1000px;
+    height: 300px; /* will be removed once page is complete */
+    background-color: black;
+    margin: 0px;
+    text-align: left;
+    float: left;
+}
+  
+.mainpage {
+    width: 200px;
+    height: 75px;
+    background-color: black;
+    text-align: left;
+    float: left;
+    color: rgb(238, 167, 167);
+    text-align: left;
+}
+  
+.navbox {
+    width: 300px;
+    height: 75px;
+    background-color: black;
+    padding-top: 30px;
+    text-align: left;
+    float: left;
+} 
+  
+.Whyusleft {
+    background-color: black;
+}
+.Whyuslefttext {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 16pt;
+    color: white;
+    text-align: left;
+}
+  .Whyusright {
+    background-color: black;
+  }
+.Whyusrighttext {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 12pt;
+    color:red;
+}
+  
+.boldtext {
+    font-weight: 300;
+}
